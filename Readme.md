@@ -1,5 +1,5 @@
 # Readme for 7 lecture of JS
-
+![image](./Design%20a%20visually%20st.png)
 ## list of content 
 #### - Callback
 
